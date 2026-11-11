@@ -6,3 +6,5 @@ bugun Git va commit buyruqlarini o'rgandim
 bugun Markdown formatini o'rgandim
 ## 4-kun
 bugun Git diff buyrug'ini ishlatdim
+## 5-kun
+bugun Git log orqali tarixni tekshirdim
